@@ -1,2 +1,2 @@
-# OpenMetaWallet
+# Open Meta Wallet
 Open Meta Wallet
